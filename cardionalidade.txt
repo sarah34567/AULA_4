@@ -1,0 +1,20 @@
+Professor e disciplina
+Um professor pode lecionar apenas uma disciplina, mas uma disciplina pode ser lecionada por vários professores.
+
+Evento e ingresso
+Um evento pode ter vários ingressos, mas um ingresso pertence apenas a um único evento.
+
+Cidade e hoteis
+Uma cidade pode ter vários hotéis, mas um hotel pertence a apenas uma cidade.
+
+Fabricante e carros
+Um fabricante pode produzir apenas um carro, mas um carro pode ser produzido por vários fabricante.
+
+Biblioteca e livro
+Uma biblioteca pode ter vários livros, mas cada livro pertence apenas a uma biblioteca.
+
+Empresa e projeto
+uma empresa pode ter vários projetos, mas cada projeto pertence apenas a uma empresa.
+
+Fazenda e safra
+Uma empresa pode ter vários projetos, mas cada projeto pertence apenas a uma empresa.
